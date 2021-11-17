@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Lítá to potrubně`,
     author: {
-      name: `This is me, obviously`,
+      name: `Já`,
       summary: `===`,
     },
     description: `Kanál.`,
