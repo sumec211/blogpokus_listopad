@@ -1,7 +1,7 @@
 ﻿---
-title: Hello World
+title: Vítám vás
 date: "2021-11-21T23:45:10.284Z"
-description: "Hello World"
+description: "Vítám vás"
 ---
 
 Blog. Blok. Blog. V době integrace obsahu do sociálních sítí a větších webových uskupení je těžký to nevnímat jako naprostej anachronismus. Třeba knížku vnímám jako aktuálnější  formu vyjádření než blog. Závan z roku 1994 - alespoň to tvrdí krátká pseudorešerše o původu blogu. I křičet na ulici je aktuálnější než blok. Teda blog.  
